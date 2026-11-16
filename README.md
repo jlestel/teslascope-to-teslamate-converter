@@ -4,7 +4,7 @@ Bring your [Teslascope](https://teslascope.com) history into [TeslaMate](https:/
 
 TeslaMate can only import [TeslaFi](https://docs.teslamate.org/docs/import/teslafi) files. This script turns a Teslascope data export into TeslaFi-format CSV files, one per month. TeslaMate's own importer then rebuilds your drives, charges and positions from them.
 
-It is a single Python file with no dependencies (Python 3.9+).
+It is a single Python file with no dependencies (Python 3.10+).
 
 ## What gets imported
 
