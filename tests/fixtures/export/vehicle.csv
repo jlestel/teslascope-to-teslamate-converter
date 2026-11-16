@@ -1,0 +1,2 @@
+Public ID,VIN,Name,State,API Version,Primary Vehicle?,Logging Enabled?,Idle Override,Recent Override,Free Supercharging?,Private?,Restful Mode,Country,Created At,Updated At,Recently Updated At
+AbCd,TESTVIN0000000001,Testcar,online,76,1,0,15,10,0,1,1,fr,2024-01-01 08:00:00,2024-01-02 00:00:00,2024-01-02 00:00:00

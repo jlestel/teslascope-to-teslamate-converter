@@ -1,0 +1,2 @@
+ID,Name,Battery Level Start,Battery Range Start,Battery Level End,Battery Range End,Charge Energy Added,Charge Limit (SoC),Connection Cable,Fast Charger Brand,Fast Charger Type,Fast Charger Present?,Latitude,Longitude,Duration,Cost,Currency,Private?,Created At
+20,Home,80,199.00,82,205.00,1.20,90,IEC,<invalid>,<invalid>,0,48.86200000,2.29450000,600,0.00,,1,2024-01-01 10:00:00

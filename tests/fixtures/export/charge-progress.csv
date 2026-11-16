@@ -1,0 +1,5 @@
+ID,Charge ID,Battery Level,Usable Battery Level,Battery Range,Estimated Battery Range,Charge Energy Added,Charge Limit (SoC),Charge Port Cold Weather Mode,Charge Port Door Open,Charge Port Latch,Connection Cable,Fast Charger Brand,Fast Charger Type,Fast Charger Present?,Charge Rate,Charger Power,Charger Voltage,Charging State,Minutes To Full Charge,Time To Full Charge,Created At
+200,20,80,80,199.00,190.00,0.00,90,0,1,Engaged,IEC,<invalid>,<invalid>,0,40.0,11.0,230.4,Charging,30,0.50,2024-01-01 10:00:00
+201,20,81,81,201.00,192.00,0.40,90,0,1,Engaged,IEC,<invalid>,<invalid>,0,40.0,11.0,230.4,Charging,30,0.50,2024-01-01 10:01:00
+202,20,82,82,203.00,194.00,0.80,90,0,1,Engaged,IEC,<invalid>,<invalid>,0,40.0,11.0,230.4,Charging,30,0.50,2024-01-01 10:02:00
+203,20,83,83,205.00,196.00,1.20,90,0,1,Engaged,IEC,<invalid>,<invalid>,0,40.0,11.0,230.4,Complete,30,0.50,2024-01-01 10:03:00
